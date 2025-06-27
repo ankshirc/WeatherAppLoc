@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_shade_1">#292036</color>
+    <color name="sky_blue">#3F6BAF</color>
+    <color name="steel_blue">#3A6073</color>
+    <color name="neutral_grey">#4F4F4F</color>
+    <color name="navy_blue">#101820</color>
+    <color name="soft_purple">#6A85B6</color>      <!-- soft dusk purple -->
+    <color name="twilight_blue">#BAC8E0</color>    <!-- soft mid-sky tone -->
+    <color name="deep_night">#283E51</color>       <!-- rich bluish-black -->
+
+    <color name="midnight_blue">#1C2E4A</color>     <!-- deep navy -->
+    <color name="storm_purple">#3B375F</color>      <!-- muted deep purple -->
+    <color name="deep_space">#121B2A</color>        <!-- almost black-blue -->
+
+    <color name="soft_sky">#A8D0E6</color>       <!-- light pastel blue -->
+
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+</resources>
